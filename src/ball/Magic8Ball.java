@@ -1,5 +1,3 @@
-package ball;
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -35,7 +33,7 @@ public class Magic8Ball {
 		System.out.println("---------Welcome to Magic 8 Ball!!!----------");
 		System.out.println("Ask a Yes/No question or type 'quit' to leave.");
 		
-		//loop will keep asking for questions until user says quit\
+		//loop will keep asking for questions until user says quit
 		while (true) {
 			System.out.println("\nAsk a question: ");
 			String question = scan.nextLine().trim(); 

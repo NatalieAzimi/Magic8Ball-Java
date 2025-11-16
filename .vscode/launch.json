@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Magic8Ball",
+      "request": "launch",
+      "mainClass": "ball.Magic8Ball",
+      "console": "integratedTerminal"
+    }
+  ]
+}
